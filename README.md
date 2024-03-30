@@ -1,4 +1,4 @@
-# geo_poly_glide
+# Lg_Geo_Visualization
 
 A new Flutter project.
 
